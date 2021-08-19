@@ -1,4 +1,4 @@
-module github.com/Bamimore-Tomi/hngxig4stage2-resume-generator.git
+module github.com/Bamimore-Tomi/hngxig4stage2-resume.git
 
 go 1.15
 

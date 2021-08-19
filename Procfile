@@ -1,1 +1,1 @@
-web: hngxig4stage2-resume-generator
+web: hngxig4stage2-resume
