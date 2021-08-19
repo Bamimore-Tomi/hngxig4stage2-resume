@@ -1,1 +1,1 @@
-web: bin/hngxig4stage2-resume
+web: ./bin/hngxig4stage2-resume
