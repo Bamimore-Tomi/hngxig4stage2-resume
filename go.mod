@@ -1,6 +1,6 @@
 module github.com/Bamimore-Tomi/hngxig4stage2-resume.git
 
-go 1.15
+// +heroku goVersion go1.17
 
 require (
 	github.com/gin-gonic/gin v1.7.4
