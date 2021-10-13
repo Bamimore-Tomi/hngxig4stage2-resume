@@ -36,5 +36,5 @@ func main() {
 		c.HTML(http.StatusOK, "index.html", gin.H{})
 	})
 
-	router.Run(":3000")
+	router.Run()
 }
